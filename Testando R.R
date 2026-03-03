@@ -20,3 +20,7 @@ getwd()
 
 c <- a + b
 c
+
+
+d <- c - a
+e <- c + b
