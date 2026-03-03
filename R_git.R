@@ -31,7 +31,13 @@ divisao
 # Agora no terminal do RStudio (aba Terminal) ou Git Bash: git add R_git.R 
 # agora adiciona o arquivo no git - git commit -m "Adicionando arquivo R_git.R"
 # enviar para git o arquivo git push origin main
+# git add. para adicionar tudo o que tiver
+# git status
+
+raiz <- sqrt(25)
+raiz
 
 
+log(9)
 
 
