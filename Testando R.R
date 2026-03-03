@@ -7,3 +7,14 @@ a
 
 b <- c(3,2,1)
 b
+
+getwd()
+
+
+# Passo a Paaso
+# git init
+# git add "Testando R.R"
+# git commit -m "Adicionando arquivo Testando R.R"
+# git push origin master
+
+
