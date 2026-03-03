@@ -18,3 +18,5 @@ getwd()
 # git push origin master
 
 
+c <- a + b
+c
