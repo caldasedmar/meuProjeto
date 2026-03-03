@@ -40,4 +40,4 @@ raiz
 
 log(9)
 
-
+log(4)
