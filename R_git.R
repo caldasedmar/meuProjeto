@@ -9,7 +9,7 @@
 # usethis::use_github()  publico
 # usethis::use_github(private = TRUE) nao fiz, mas se fizer so vc pode acessar
 
-
+gitcreds::gitcreds_set()
 
 # usethis::use_github()
 
@@ -22,7 +22,9 @@ soma
 multiplicacao <- x*y
 multiplicacao
 
-getwd()
+
+divisao <- y/x
+divisao
 
 
 # salva o arquivo R_git.R na pasta C:/Users/Edmar/Documents/meuProjeto"
