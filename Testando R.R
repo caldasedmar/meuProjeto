@@ -13,13 +13,18 @@ getwd()
 
 # Passo a Paaso
 # git init
+# git status
 # git add "Testando R.R"
 # git commit -m "Adicionando arquivo Testando R.R"
 # git push origin master
 # git log mostra mostra historico
 # git log --oneline - exibe o histórico de commits de forma compacta, mostrando cada um em uma única linha. 
 # git log --oneline --graph --all -- exibe o histórico de commits de um repositório Git de forma visual, resumida e completa
-# git diff
+# git diff é um comando utilizado para mostrar as diferenças entre estados do repositório, comparando arquivos no diretório de trabalho, a área de staging (índice) ou commits específicos. 
+# git pull origin master - atualiza seu repositório local com as alterações mais recentes de um repositório remoto,
+# git revert - reverte commit ultimo
+# git remote -v  - mostra repositorios remotos
+# 
 
 
 c <- a + b
