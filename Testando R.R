@@ -36,6 +36,9 @@ f
 g <- c+d+e+f
 g
 
+h <- g*c*d+e+f-g
+h
+print("Alteração direto no GitHub")
 
 h <- g+e+d+f+c
 h
